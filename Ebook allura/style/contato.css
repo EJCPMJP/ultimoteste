@@ -1,0 +1,24 @@
+.contato{
+    padding: 1em 1em;
+}
+
+.contato__titulo{
+    color: var(--azul);
+    font-weight: 500;
+    
+}
+
+.contato__texto{
+    font-size: 14px;
+    font-weight: 300;
+    padding: 1em 0;
+}
+
+.email__contato{
+    background-color: transparent;
+    border: 1px solid;
+    border-radius: 24px;
+    padding: 1em;
+    width: 90%;
+    
+}
